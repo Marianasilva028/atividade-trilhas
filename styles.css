@@ -128,3 +128,16 @@ body {
 .botao:hover {
     background: #1081c7;
 }
+
+.banner-superior-esquerdo,
+.banner-superior-direito,
+.banner-inferior-direito,
+.banner-branco-inferior-direito {
+    
+    z-index: -1;
+}
+
+
+
+
+
